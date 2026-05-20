@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/*
+Theme Name: SANCTUARY GOLF
+Theme URI: http://www./
+Description: 「SANCTUARY GOLF」サイト専用テーマ
+Author: HIROMI SUGIE
+Author URI: http://hiromisugie.com/
+Version: 1.0
+*/
+
+@import url(css/common.css);
+@import url(css/flexnav.css);
